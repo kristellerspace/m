@@ -252,6 +252,27 @@ video {
     color: #3333cc;
 }
 
+.blog-post {
+    padding: 20px;
+}
+
+.blog-post img.blog-image {
+    width: 50%;
+    max-height: 300px;
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+.blog-post h2 {
+    font-size: 24px;
+    margin: 0 0 10px;
+}
+
+.blog-post p {
+    font-size: 14px;
+    margin: 0 0 10px;
+}
+
 .blurbs {
     background-color: #fff3e0;
     padding: 10px;
